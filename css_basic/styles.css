@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background-color: #4CAF50;
+    background-color: #8697CA;
     color: white;
     border-bottom: 2px solid #ccc;
     padding: 10px;
@@ -17,6 +17,19 @@ header {
 .logo {
     max-width: 100%;
     height: auto;
+}
+
+nav ul li {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 200px;
+    margin-top: 20px;
 }
 
 main {
